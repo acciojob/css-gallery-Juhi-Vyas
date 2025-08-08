@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 .cards{
 	display: flex;
+	align-items: flex-end;
 	flex-wrap: wrap;
 
 }
